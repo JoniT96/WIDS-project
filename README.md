@@ -5,7 +5,7 @@ The main purpose of this project is to figure out how unknown wireless devices c
 
 The project includes a prototype of the intrusion detection system of wireless devices, which is running independently collecting data from unknown devices and coarsely locating them.
 
-Necessary data can be collected from the devices, such as MAC address, time stamps, RSSI, BSSID and ESSID information.
+Necessary data can be collected from the devices, such as MAC address, timestamps, RSSI, BSSID and ESSID information.
 
 Description of the system:
 
