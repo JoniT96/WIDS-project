@@ -1,5 +1,5 @@
 # WIDS-project
-This repository is for my thesis project WIDS
+This repository is for my project WIDS
 
 The main purpose of this project is to figure out how unknown wireless devices can be monitored and tracked with radio signals sent by the device. Similar systems can be found on the market, but this project was done using my own knowledge and open-source software.
 
